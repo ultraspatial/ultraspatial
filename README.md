@@ -1,5 +1,5 @@
 ### Hi, My Name Is Ahnaf
-✦ **'06, He/Him, 🇧🇩** ✦ **Aspiring Engineer** ✦ **Amateur Programmer** ✦ <b>[Website](httpsbayleaf.github.io)</b>
+✦ **'06, He/Him, 🇧🇩** ✦ **Aspiring Engineer** ✦ **Amateur Programmer** ✦ [Website](httpsbayleaf.github.io)
 
 - **Interests:** Computational Physics, Math, Visual Art, Philosophy
 - **Skills:** Web Design, Python
