@@ -1,7 +1,13 @@
-### Hi, My Name Is Ahnaf
-✦ **'06, He/Him, 🇧🇩** ✦ **Aspiring Engineer** ✦ **Amateur Programmer** ✦ **[Website](https://pikobyte-exe.github.io)**
+```json
+{
+    "Name":"Ultraspatial",
+    
+    "Website":"ultraspatial.github.io",
+    "E-Mail": "study.bayleaf@gmail.com",
 
-- **Interests:** Computational Physics, Math, Visual Art, Philosophy
-- **Skills:** Web Design, Python
-- **Learning:** MATLAB, Machine Learning, Mechatronics
-- **Contact Me On:** [Twitter](https://twitter.com/https_bayleaf), [Instagram](https://www.instagram.com/pikobyte.exe/)
+	"Bio": "✱ He/Him - 2006 - Dhaka ✱ Aspiring Engineer, Amateur Programmer ✱",
+	"Interests": ["Web Design", "Computational Science", "Mathematics"],
+    "Skills": ["HTML + CSS", "Python"],
+    "Learning": ["JavaScript", "Lua", "Machine Learning", "MATLAB"]
+}
+```
